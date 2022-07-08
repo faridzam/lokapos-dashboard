@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://10.10.10.13:8899/files
+HostUrl=http://10.10.10.13:8899/download?filename=%2Fwww%2Fwwwroot%2Flokadesk.com%2Fassets%2Fimg%2Flogo-saloka.svg
